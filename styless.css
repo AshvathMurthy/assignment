@@ -1,0 +1,55 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  
+    display: grid;
+    place-content: center;
+    min-height: 100vh;
+    background-color:#380707;
+  }
+ 
+
+  .cute-pic {
+    height: 400px;
+    width: 300px;
+  
+    /* display: block; */
+  
+    /* Zooms in */
+    object-fit: cover;
+  
+    border-radius: 30px;
+  
+    /* Zooms  out */
+    /* object-fit: contain; */
+  }
+  
+
+
+
+
+  .p1{
+      text-align:center;
+      line-height: 1;
+      font-size: 50px;
+      font-weight: bold;
+      color:white;
+  }
+  .p2{
+    text-align:center;
+    font-size: 15px;
+    font-weight: bold;
+    color:#ffffff52;
+  }
+
+  .p3{
+    color:white;
+    text-align:center;
+    font-size:13px
+    
+  }
+  .p4{
+    color:white;
+    text-align:center;
+    font-size:13px
+    
+  }

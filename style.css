@@ -1,0 +1,32 @@
+h4{
+    font-size:72px;
+    color:red;
+    font-weight:bold;
+    text-transform: uppercase;
+    text-align: center;
+    text-decoration-line: overline;
+    letter-spacing: 1px;
+}
+h3{
+    font-style:italic;
+}
+h2{
+    line-height: 1;
+    color:beige;
+    background-color:purple;
+}
+div{
+    background-color: bisque;
+
+
+}
+.cool{
+    color:aquamarine;
+}
+.p4{
+    height: 300px;
+    width: 300px;
+    object-fit:cover;
+    display:block;
+    border-radius: 10px;
+}
